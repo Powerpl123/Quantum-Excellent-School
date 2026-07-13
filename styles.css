@@ -301,36 +301,6 @@ img {
   margin-top: 1.4rem;
 }
 
-.hero-stats {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  margin-top: 2.4rem;
-}
-
-.stat-chip {
-  display: grid;
-  gap: 0.05rem;
-  padding: 0.65rem 1.15rem;
-  border-radius: 16px;
-  background: rgba(255, 255, 255, 0.12);
-  border: 1px solid rgba(255, 255, 255, 0.22);
-  backdrop-filter: blur(8px);
-}
-
-.stat-chip strong {
-  font-family: "Bricolage Grotesque", sans-serif;
-  font-size: 1.35rem;
-  font-weight: 800;
-  color: #f6c069;
-}
-
-.stat-chip span {
-  font-size: 0.82rem;
-  font-weight: 700;
-  color: #dfe5ea;
-}
-
 /* ---------- Buttons ---------- */
 .btn {
   display: inline-flex;
